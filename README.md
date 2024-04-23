@@ -1,7 +1,7 @@
 <h1 align="center">Projeto Previsão do Tempo</h1>
 <br>
 <p>Nesse projeto foi realizado um app para previsão de tempo, aprendi mais sobre posicionamento de elementos na tela com o css fixando mais as informações.
-Um Html simples, mas é sempre bom se aprender a melhor marcar os objetos na tela. No JavaScript fazendo conexão com o servidor é bem bacana e também usando API, para buscar os dados com precisão. Foi um prazer realizar esse projeto om a grande ajuda do <a href="https://www.youtube.com/results?search_query=devclub+previs%C3%A3o+do+tempo">Rodolfo Mori</a>.</p>
+Um Html simples, mas é sempre bom se aprender a melhor marcar os objetos na tela. No JavaScript fazendo conexão com o servidor é bem bacana e também usando API, para buscar os dados com precisão. Foi um prazer realizar esse projeto com a grande ajuda do <a href="https://www.youtube.com/results?search_query=devclub+previs%C3%A3o+do+tempo">Rodolfo Mori</a>.</p>
 <br>
 <p>Tecnologias usadas:</p>
 <br>
