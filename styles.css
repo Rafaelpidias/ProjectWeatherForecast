@@ -1,0 +1,77 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Open Sans", sans-serif;
+}
+
+body {
+  background-image: url("https://source.unsplash.com/1600x900/?");
+  background-size: cover;
+  height: 100vh; /* não é bom usar %, pode dar ruim*/
+  width: 100vw;
+  display: flex; /*isso faz com que align-items e justify funcione*/
+  align-items: center;
+  justify-content: center;
+}
+.big-box {
+  background-color: #000000;
+  opacity: 0.8;
+  width: 95%;
+  max-width: 450px;
+  border-radius: 25px;
+  padding: 20px;
+}
+
+.lupa {
+  width: 20px;
+  height: 20px;
+}
+
+button {
+  background-color: #7c7c7c2b;
+  border-radius: 50%;
+  padding: 10px;
+  cursor: pointer;
+  border: none; /*deu uma arredondada melhor no background*/
+  float: right;
+}
+
+button:hover{
+background-color:#7e7e7e7c;
+
+}
+
+input {
+  border: none;
+  outline: none;
+  border-radius: 20px;
+  padding: 10px;
+  background-color: #7c7c7c2b;
+  color: #ffffff;
+  width: calc(100% - 100px);
+  font-size: 24px;
+}
+.medium-box {
+  margin-top: 30px;
+}
+
+.city{
+    color: #ffffff;
+    font-size: 28px;
+
+
+}
+.temp{
+    color: #ffffff;
+    margin-top: 30px;
+    font-size: 28px;
+
+
+}
+.humidity{
+    color: #ffffff;
+    margin-top: 30px;
+
+
+}
